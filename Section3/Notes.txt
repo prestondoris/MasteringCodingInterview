@@ -1,0 +1,24 @@
+BigO Asymtotic Analysis
+1. This tells us how well a problem is solved.
+  -This is a metric to compare it other algorithms
+  -It is simply a performance metric
+
+What is good code?
+-Readable
+-Scalable
+  -BigO gives us a metric to tell us if our code can scale
+
+-A Coder is someone who gives the computer the instructions needed to 
+achieve a desired result. There are ways that the instructions can be good or bad
+
+-The Runtime: how long does it take to run a certain problem through a function or task.
+
+-Algorithmic Efficiency: as the number of items increases how many more operations do 
+we have to do. BigO allows us to explain this concept.
+
+-When we talk about BigO and scallability we are talking about when we grow bigger and 
+bigger with our input how much does it slow down.
+
+-BigO allows us and concerns us with how many steps it takes in a function.
+-Linear Time: O(n), as the input grows so does the runtime linearly.
+  -The findNemo function is a Linear Time function.

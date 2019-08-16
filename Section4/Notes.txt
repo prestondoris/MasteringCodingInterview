@@ -1,0 +1,32 @@
+-The coder that answers the question, "Will you solve the companies problem?" is the person that will get hired.
+-First we have to understand BigO
+-Then we have to learn how to solve the problems in a way that companies like.
+  -Once we have this down all we have to do is use the data stuctures and algorimths to solve these problems.
+
+What are companies looking for?
+-Analytic Skills
+  -They want to know how you analyze a problem. They want to know your thought process
+-Coding Skills
+  -Do you code well, is it clean, well organized, readable
+-Technical Skills
+  -Do you know the fundamentals
+  -Do you understand the pros and cons of different solutions
+-Communication Skills 
+  -Can you work well and communicate well with others
+
+What We Need for Coding Interviews
+We need to learn these Data Structures and Algorimths
+Data Structures
+  -Arrays
+  -Stacks
+  -Queues
+  -Linked Lists
+  -Trees
+  -Tries
+  -Graphs
+  -Hash Tables
+Algorithms
+  -Sorting
+  -Dynamic Programming
+  -BFS & DFS (searching)
+  -Recursion

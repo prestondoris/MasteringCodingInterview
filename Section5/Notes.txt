@@ -1,0 +1,56 @@
+Data Structures + Algorithms = Programs
+This is the fundamentals that build up to the higher level programming that goes on
+
+What is a Data Structure?
+-a collection of values
+  -the values can have relationships between them
+  -the values can have functions applied to them
+  -each is good/specialized for its own purpose
+-a data structure is a storage device
+  -a backpack
+  -a file cabinet
+  -a fridge
+  -a box
+  -a folder
+  -each of these is designed for a specific purpose
+
+-Every problem contains tradeoffs: time vs space
+-There are two parts to Data Structures
+  -How to Build One
+  -How to Use One
+
+
+How Computures Store Data
+-In Order for a computer to run code it has to keep track of variables: numbers, strings, arrays
+-These variables are stored in RAM (random access memory)
+-There is also storage where files, images, videos are stored
+  -This type of data is permanent or persistant
+  -Applications installed on your computer are stored here so that the computer can 
+  always open this application
+
+-The CPU is the "brain" that does all the work to access the RAM or the items in storage
+-RAM is a massive storage area
+  -Think of a shelf that has addresses to label each shelf.
+    -Each shelf holds 8 bits
+      -a bit is a 1 or 0
+      -8 bits is called a Byte
+    -Each shelf has 1 Byte
+  -The CPU is connected to a memory controller 
+    -This does the actual rea/write of memory
+    -This is a direct connection to the memory controller 
+      -The CPU can ask "What is in shelf 1"
+      -The memory controller has a direct connection to every shelf in memory
+        -This allows it immediate access to that shelf regardless of where it is
+      -The CPU has a CPU Cache which stores things that are recently retrieved
+
+-Lots of computers store variables as 32 bit which is 4 shelves of 8 bits.
+  -Now computers use 64 bit 
+  -8 bit systems can hold 255 bits of information(the numbers 0-255 for example)
+    -A byte has only 8 bits. A bit is a binary digit. So a byte can hold 2 (binary) ^ 8 
+    numbers ranging from 0 to 2^8-1 = 255. It's the same as asking why a 3 digit decimal 
+    number can represent values 0 through 999, which is answered in the same manner 
+    (10^3 - 1)
+  -16 bit => 65,536
+  -32 bit => 2,147,483,647
+  -64 bit => 9,223,372,036,854,775,807
+

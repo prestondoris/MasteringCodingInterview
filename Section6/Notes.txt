@@ -1,0 +1,20 @@
+Data Structures: Arrays
+
+Arrays (lists)
+  -organize items sequentially and are called contiguous because they stored in 
+  in memory in order
+  -RunTimes
+    -lookup: O(1)
+    -push: O(1)
+    -insert: O(n)
+    -delete: O(n)
+
+There are two types of arrays: static and dynamic
+  -One limitation of static arrays is that they are fixed in size
+    -you must specify how big the array is when it is initialized
+    -this allows the computer to know how many shelfs it needs to allocate
+  -A dynamic array will copy the data to a new location in memory that has more
+  room in memory to add more items to that array 
+    -appends for dynamics arrays are normally O(1), but can be O(n) because when 
+    the array has to dynamically increase it will have to loop over all items to copy
+    them to a new space in memory

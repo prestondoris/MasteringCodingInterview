@@ -1,0 +1,28 @@
+Algorithms: Sorting
+
+Sorting Algorithms
+  -Radix Sort
+  -Quick Sort
+  -Bubble Sort
+  -Selection Sort
+  -Heap Sort
+  -Insertion Sort
+  -Merge Sort
+  -Counting Sort
+
+Bubble Sort
+  -Usually the first thing that comes to mind when trying to Sort
+  -You bubble up the largest values at each iteration
+
+Selection Sort 
+  -The algorithms works by looking for the smallest item then\
+  swaps it with element in the first position 
+
+Insertion Sort
+  -
+
+O(n log(n)) is the runtime that good sorting algorithms achieve in average and worst case
+
+Merge Sort and Quick Sort are algorithms that use the concept of divide and conquer.
+  -Divide and Conquer usually gives a log(n) advantage
+  
